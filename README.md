@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/passuf/WunderHabit.svg?branch=master)](https://travis-ci.org/passuf/WunderHabit) [![Coverage Status](https://coveralls.io/repos/passuf/WunderHabit/badge.svg?branch=master&service=github)](https://coveralls.io/github/passuf/WunderHabit?branch=master)
+[![Build Status](https://travis-ci.org/asfaltboy/WunderHabit.svg?branch=master)](https://travis-ci.org/asfaltboy/WunderHabit) [![Coverage Status](https://coveralls.io/repos/asfaltboy/WunderHabit/badge.svg?branch=master&service=github)](https://coveralls.io/github/asfaltboy/WunderHabit?branch=master)
 
 # WunderHabit
 Level up in [Habitica](https://habitica.com) by completing todo's in [Wunderlist](https://wunderlist.com).
